@@ -1,0 +1,12 @@
+{
+  "baseApiUrl": "https://dummyapi.io/data/api/",
+  "appId": "6082e0790e9eb079479ee4be",
+  "okta": {
+    "clientID": "0oa49x8ovyN3rlPCi5d7",
+    "tenant": "https://dev-48625922.okta.com",
+    "responseMode": "query",
+    "responseType": "code",
+    "scope": "openid profile offline_access email"
+  },
+  "appTitle": "Login multi provider"
+}
